@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+great-vision.ru	TRUE	/	FALSE	1999999999	a1417hash	f84d4030d833ffee4792510afb937041
+great-vision.ru	TRUE	/	FALSE	1999999999	a1417fhash	boots-ugg
+
